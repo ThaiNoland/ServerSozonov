@@ -1,0 +1,7 @@
+server
+my_client
+*.log
+auth_base.txt
+config.txt
+data.bin
+client_float
